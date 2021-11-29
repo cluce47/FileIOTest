@@ -1,0 +1,3 @@
+Write this to file example.txt.
+And also this.
+And this.
